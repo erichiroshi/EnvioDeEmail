@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.mailjet.api-key",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mailjet.api-key'"
+  },
+  {
+    "name": "spring.mailjet.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mailjet.secret-key'"
+  }
+]}
